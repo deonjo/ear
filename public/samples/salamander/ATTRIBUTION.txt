@@ -1,0 +1,10 @@
+Piano samples in this folder
+
+Source:   Salamander Grand Piano V3 by Alexander Holm
+          https://sfzinstruments.github.io/pianos/salamander/
+          (these MP3 renders were taken from the Tone.js audio repository,
+          https://tonejs.github.io/audio/salamander/)
+License:  Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+          https://creativecommons.org/licenses/by/3.0/
+
+Files:    A3, C4, Ds4 (D#4), Fs4 (F#4), A4, C5, Ds5 (D#5), Fs5 (F#5). Unmodified.
